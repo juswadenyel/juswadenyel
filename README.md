@@ -5,7 +5,7 @@
 I'm passionate about coding, software development, and building solutions that make everyday tasks easier. I enjoy learning new technologies and applying them to real-world projects.
 
 🚀 About Me
-🎓 3rd Year BSIT Student at CIT University
+🎓 4th Year BSIT Student at CIT University
 👨‍💻 Interested in Software Development, Web Development, and Mobile App Development
 🌱 Currently learning Java, Python, C, Kotlin, and Full-Stack Web Development
 🔭 Working on projects involving Android development, web applications, and database systems
